@@ -2,7 +2,7 @@ import java.util.Arrays;
 /**
  * versione 1
  * @author Andrea Manco
- *
+ * William :3
  */
 public class Scuola {
 	
