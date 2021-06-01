@@ -1,5 +1,9 @@
 import java.util.Arrays;
-
+/**
+ * versione 1
+ * @author Andrea Manco
+ *
+ */
 public class Scuola {
 	
 	private String nome;
